@@ -1,0 +1,8 @@
+[package]
+name = "noir_rsa_optimised"
+type = "bin"
+authors = ["michaelelliot"]
+compiler_version = ">=0.20.0"
+
+[dependencies]
+biguint = { path = "./crates/rsa-biguint" }
