@@ -23,3 +23,7 @@ Verify:
 ```sh
 nargo verify
 ```
+
+## Precompute Inputs
+
+Run the [`./scripts/precompute_inputs.py`](./scripts/precompute_inputs.py) script to precompute the optimised circuit inputs.
